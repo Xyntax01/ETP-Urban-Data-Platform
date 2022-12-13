@@ -7,7 +7,7 @@
 ## Table of contents
    * [UDP API](#UDP-API)
 	   * [Introduction](#Introduction)
-	   * [Callback URL & Standard headers](#Callback-URL-&-Standard-headers)
+	   * [Callback URL & Standard headers](#callback-url-&-standard-headers)
    * [UDP development and test environment](#UDP-development-and-test-environment)
 
 ##  UDP API
